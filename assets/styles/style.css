@@ -1,0 +1,23 @@
+h1{
+    font-size: 300%;
+    color: rgb(33, 166, 228);
+    background-image: linear-gradient(to left, #a5a4a8, #332e38);
+    font-style: oblique;
+}
+
+.navigation{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: blanchedalmond;
+}
+
+.hoverlink{
+    font-size: 15px;
+    font-family: fantasy;
+    color:maroon;
+}
+
+a:hover{
+    text-decoration: line-through;
+}
